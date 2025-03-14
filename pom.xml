@@ -9,30 +9,12 @@
   <url>http://maven.apache.org</url>
 
   <dependencies>
-    <!-- JUnit 5 -->
-    <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
-<!--    <dependency>-->
-<!--      <groupId>org.springframework</groupId>-->
-<!--      <artifactId>spring-webmvc</artifactId>-->
-<!--      <version>6.1.14</version>  &lt;!&ndash; Actualization do nowszej wersji &ndash;&gt;-->
-<!--    </dependency>-->
-
-<!--    <dependency>-->
-<!--      <groupId>org.springframework</groupId>-->
-<!--      <artifactId>spring-webmvc</artifactId>-->
-<!--      <version>5.3.0</version> &lt;!&ndash; Wersja 5.x &ndash;&gt;-->
-<!--    </dependency>-->
 
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
       <version>5.3.21</version> <!-- Użyj najnowszej bezpiecznej wersji -->
     </dependency>
-
-
-
-
-
 
     <!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
     <dependency>
